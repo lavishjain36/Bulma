@@ -1,0 +1,14 @@
+Bulma is a free, open-source CSS framework that is designed to make it easy to create responsive and visually appealing websites. It was created by Jeremy Thomas in 2016 and is based on the concept of Flexbox, a layout method that allows elements to be positioned and aligned in flexible ways, making it easy to create responsive designs.
+
+One of the key features of Bulma is that it provides a set of CSS classes that can be applied to HTML elements to create a consistent layout and design across different screen sizes. These classes can be used to create common layout elements such as grids, columns, and navigation menus, as well as more specific elements like forms, buttons, and modals.
+
+Bulma also provides a set of variables that can be used to customize the look and feel of your website. These variables can be used to change things like font sizes, colors, and spacing, and can be easily overridden in your own CSS styles.
+
+To use Bulma in your website, you can simply include the CSS file in the head of your HTML document, and then apply the classes to your HTML elements as needed. You can also download the source files from the Bulma website, and customize the CSS and variables according to your need.
+
+One of the main advantage of using Bulma is that it is lightweight and easy to use, making it a good option for both beginners and experienced developers. Another advantage is that it is based on Flexbox, which is a powerful layout method that makes it easy to create responsive designs.
+
+Overall, Bulma is a great CSS framework that can help you create visually appealing and responsive websites quickly and easily. It is a good choice for anyone looking to build a website without having to start from scratch, and it offers a lot of flexibility and customization options.
+
+
+
