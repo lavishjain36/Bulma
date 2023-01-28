@@ -11,4 +11,25 @@ One of the main advantage of using Bulma is that it is lightweight and easy to u
 Overall, Bulma is a great CSS framework that can help you create visually appealing and responsive websites quickly and easily. It is a good choice for anyone looking to build a website without having to start from scratch, and it offers a lot of flexibility and customization options.
 
 
+Some important concepts to understand when using Bulma include:
+
+Flexbox: Bulma is based on Flexbox, which is a layout system that allows elements within a container to be aligned and distributed in a flexible and responsive manner. This is what allows Bulma to create responsive and flexible layouts for various screen sizes.
+
+Grid system: Bulma uses a 12-column grid system that allows developers to create complex and responsive layouts for their websites. The grid system is based on Flexbox and is easily customizable.
+
+Classes: Bulma uses a set of predefined classes that can be applied to HTML elements to create different types of UI components, such as buttons, forms, and navigation.
+
+Variables: Bulma allows developers to customize the look and feel of their website by using a set of predefined variables, such as colors, fonts, and spacing. These variables can be easily modified to match the design of your website.
+
+Modifiers: Bulma provides a set of modifiers that can be added to classes to create variations of UI components, such as different sizes and colors.
+
+SASS: Bulma uses SASS, a CSS pre-processor, which allows developers to write more efficient and organized CSS code. It is optional to use but is recommended to make more complex styles.
+
+Responsive Design: Bulma is built with a mobile-first approach and therefore it is responsive by default. It adjusts the layout of elements according to the screen size.
+
+
+
+
+
+
 
